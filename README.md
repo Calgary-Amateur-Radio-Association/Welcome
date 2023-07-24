@@ -1,3 +1,4 @@
+<base target="_blank">
 # Welcome
 Welcome page to introduce our club Documentation pages
 
