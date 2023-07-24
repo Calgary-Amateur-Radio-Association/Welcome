@@ -1,2 +1,7 @@
 # Welcome
-Welcome page to introduce our club and some Documentation pages
+Welcome page to introduce our club Documentation pages
+
+The following are **Private** repositories that any member can apply to join:
+- openmaint - This is the software used by the administrators of the inventory of Club Assets.
+  Website ==> [http://openmaint.cara.org:8180/openmaint](http://openmaint.cara.org:8180/openmaint)
+- 
